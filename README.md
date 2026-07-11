@@ -359,19 +359,6 @@ Result:
 
 ---
 
-# Future Improvements
-
-Potential enhancements:
-
-* Deploy Azure Firewall in the Hub
-* Implement User Defined Routes (UDRs)
-* Add Azure Monitor and Network Watcher
-* Automate deployment using Terraform
-* Automate deployment using Bicep
-* Simulate hybrid connectivity with on-premises environment
-
----
-
 # Author
 
 **Agatha Nweze**
